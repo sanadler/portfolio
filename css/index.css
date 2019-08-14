@@ -123,10 +123,17 @@ h1 {
     }
 
     .item {
-        padding: 15% 6em 100px 6em;
+        padding: 15% 20em 100px 20em;
+
+    }
+
+    .item, .projects {
         padding-bottom: 3em;
         text-align: center;
         height: 100%;
+    }
+    .projects {
+        padding: 15% 4em 100px 4em;
     }
 
     .image{
