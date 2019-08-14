@@ -8,7 +8,7 @@ function watchProjectsButton() {
 function displayProjects() {
   $('.container').append(`
     <div class="projects item">
-      <h1>Portfolio</h1>
+      <h1>Projects</h1>
       <div class="card">
         <a href="https://fierce-cliffs-97625.herokuapp.com/" target="_blank"><img class="image" src="images/mytube.png"></a>
         <div class="card-container">
