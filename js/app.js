@@ -15,7 +15,7 @@ function displayProjects() {
           <h2>MyTube</h2>
           <p>Create a profile and save your favorite youtube videos to your dashboard. Add, view, update, or delete at any time!</p>
           <h2>Technology Used</h2>
-          <p>HTML, CSS, JavaScript, jQuery, Node.js, MongoDB, React, Redux</p>
+          <p>HTML, CSS, JavaScript, Node.js, MongoDB, React, Redux</p>
           <a href="https://fierce-cliffs-97625.herokuapp.com/" target="_blank"><button type="button" class="btn-dark">Live Demo</button></a>
           <a href="https://github.com/sanadler/mytube-client/" target="_blank"><button type="button" class="btn-light">Front End</button></a>
           <a href="https://github.com/sanadler/mytube-server" target="_blank"><button type="button" class="btn-dark">Back End</button></a>
